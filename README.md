@@ -145,8 +145,8 @@ whatever value `currentUser` contains at a given moment:
 
 ```js
 const currentUser = 'Grace Hopper';
-
-const welcomeMessage = 'Welcome to Flatbook, ' + currentUser;
+ 
+const welcomeMessage = 'Welcome to Flatbook, '+ currentUser;
 ```
 
 If we run the test suite with our updated code, we'll see both the second and
